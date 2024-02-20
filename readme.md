@@ -9,15 +9,13 @@ va applicato uno sconto del 40% per gli over 65.
 
 
 
- # steps
 
-- scriviamo gli imput 
-- scriviamo un bottone
-- riportaimo tutto in console
 
 
 # tools
 - let 
 - querySelector
 - EventListener
+- function
+- if/else
 - console.log
