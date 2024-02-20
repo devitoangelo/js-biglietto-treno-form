@@ -26,6 +26,8 @@ function myFunction(){
     console.log(Price);
 //stampiamo il prezzo sulla pagine html
     document.getElementById("valor").innerHTML = Price;
+    document.getElementById("name").innerHTML = FullName.value;
+
 }
 
 
